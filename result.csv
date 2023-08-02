@@ -1,0 +1,6 @@
+name,type,parent,size
+directory2,directory,.,2
+directory3,directory,.,2
+directory4,directory,./directory,0
+file1,file,./directory,2
+file2.txt,file,./directory,2

@@ -1,0 +1,1 @@
+[{"name": "directory2", "type": "directory", "parent": ".", "size": 2}, {"name": "directory3", "type": "directory", "parent": ".", "size": 2}, {"name": "directory4", "type": "directory", "parent": "./directory", "size": 0}, {"name": "file1", "type": "file", "parent": "./directory", "size": 2}, {"name": "file2.txt", "type": "file", "parent": "./directory", "size": 2}]
